@@ -1,9 +1,10 @@
 streamlit
-tensorflow
+tensorflow==2.15.1
 numpy
-scikit-learn
 pandas
-matplotlib
+scikit-learn
+nltk
 arabic-reshaper
 python-bidi
-nltk
+matplotlib
+seaborn
