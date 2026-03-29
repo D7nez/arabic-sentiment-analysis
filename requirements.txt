@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+numpy
+scikit-learn
+pandas
+matplotlib
+arabic-reshaper
+python-bidi
+nltk
